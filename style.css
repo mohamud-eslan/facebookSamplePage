@@ -1,3 +1,71 @@
-header{
-    background: royalblue;
+.container{
+    background-color: lightgray;
+}
+.header
+{
+
+    background: lightgray;
+}
+.image{
+    margin-right: 400px;
+}
+.form{
+    margin-left: 20px;
+    background-color: #4867AA;
+}
+.form p{
+    color: white;
+}
+.btn1{
+    margin-right: 10px;  
+}
+.btn2{
+    background-color: #4867AA;
+     color: white;
+      border: 1px solid black;
+       margin-left: 10px;
+}
+.for{
+    color:#9cb4d8;
+text-align: right;
+}
+.center{
+.sawir{
+    
+}
+.sawir h3{
+    font-size: 16px;
+     color: #4867AA; 
+     font-weight: 200px;
+     padding-top: 5px;
+    
+}
+.midig{
+      margin-left: 200px;
+      margin-top: 10px;
+}
+.accont{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.pra{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.midig .ptn {
+    width: 40%; 
+    height: 25px;
+     margin-right: 8px;
+      padding-left: 8px;
+}
+.ptn2{
+    width: 40%; 
+    height: 25px;
+     padding-left: 8px;
+}
+.fld{
+    width: 84%; 
+    height: 25px;
+     margin-top: 10px; 
+     padding-left: 8px;
 }
